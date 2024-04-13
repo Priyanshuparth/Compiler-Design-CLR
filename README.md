@@ -1,4 +1,4 @@
-# Compiler Design Project
+# ParseGen CLR Compiler Toolkit
 
 ## Overview
 
@@ -24,7 +24,7 @@ This project implements a compiler for a custom programming language. The compil
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Priyanshuparth/Compiler-Design-CLR.git
+   git clone git@github.com:Priyanshuparth/ParseGen-CLR-Compiler-Toolkit.git
    ```
 
 2. Navigate to the project directory:
