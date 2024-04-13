@@ -1,5 +1,12 @@
 # ParseGen CLR Compiler Toolkit
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Priyanshuparth/ParseGen-CLR-Compiler-Toolkit)
+![GitHub contributors](https://img.shields.io/github/contributors/Priyanshuparth/ParseGen-CLR-Compiler-Toolkit)
+![GitHub stars](https://img.shields.io/github/stars/Priyanshuparth/ParseGen-CLR-Compiler-Toolkit?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Priyanshuparth/ParseGen-CLR-Compiler-Toolkit?style=social)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshuparth) 
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshuparth) 
+
 ## Overview
 
 This project implements a compiler for a custom programming language. The compiler consists of a lexical analyzer, syntax analyzer, and parsing table generator. Its purpose is to tokenize input source code, check for syntactic correctness, and generate CLR parsing tables.
